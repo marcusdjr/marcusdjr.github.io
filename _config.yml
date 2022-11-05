@@ -3,14 +3,14 @@ description: Marcus Dunbar's Personal Website
 baseurl: ""
 
 username: Marcus Dunbar
-typing_text: Software Engineer / QA Tester
+typing_text: Data Nerd/Data Scientist
 
-email: daweedkob@gmail.com
-telegram_username: that_one_martian
-linkedin_username: the-david-kobalia
-github_username: daweedkob
-facebook_username: DaWeedGone
-viber_number: 995599014780
+email: marcus.d.dunbar8@gmail.com
+#telegram_username: that_one_martian
+linkedin_username: marcus-dunbar
+github_username: marcusdjr
+#facebook_username: DaWeedGone
+#viber_number: 995599014780
 
 show_aboutme_card: false
 about_me_title: About Me
@@ -21,7 +21,7 @@ skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: https://drive.google.com/file/d/1qeBuJLUDnrkYs4SglcZoibFnbjU24-hx/view
+cv_download_link: https://drive.google.com/file/d/1FIaJurk47rssevQnd8vDaUcCs6hC8oRK/view
 
 show_projects_card: true
 show_projects: false
