@@ -7,9 +7,6 @@
 - name: Ploomber
   weight: 5
 
-- name: Bash
-  weight: 4
-
 - name: AWS
   weight: 4
   
