@@ -19,7 +19,7 @@ about_me_description: <empty>
 show_skills_card: true
 skills_title: Skills
 
-show_timeline_card: true
+show_timeline_card: false
 timeline_title: Education & Experience
 cv_download_link: https://drive.google.com/file/d/1FIaJurk47rssevQnd8vDaUcCs6hC8oRK/view
 
