@@ -4,20 +4,17 @@
 - name: Git
   weight: 5
 
-- name: Bitbucket
+- name: Ploomber
   weight: 5
-
-- name: SQL
-  weight: 5
-
-- name: Jira
-  weight: 4
 
 - name: Bash
   weight: 4
 
-- name: Jenkins
-  weight: 3
+- name: AWS
+  weight: 4
+  
+- name: Azure
+  weight: 4
 
-- name: Docker
-  weight: 3
+- name: GCP
+  weight: 4

@@ -1,40 +1,28 @@
-- title: Exactpro Systems
-  title-url: https://exactpro.com/
-  date: Sep 2021 - Present
-  subtitle: Software Engineer
+- title: Burgess Consulting LLC
+  title-url: N/A
+  date: Jan 2021 - Present
+  subtitle: Junior Cloud Data Engineer
   tags:
     - tag: Python
     - tag: Git
     - tag: Software Testing
     - tag: Linux
-    - tag: Jira
+    - tag: GCP
     - tag: SQL
-    - tag: Jenkins
-    - tag: Bitbucket
   timeline-side: right
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Jun 2020 - Sep 2020
-  subtitle: Troubleshooter
+- title: Turbo Tax
+  title-url: https://turbotax.intuit.com/
+  date: 2021 - 2023
+  subtitle: Help Desk Support Specialist
   tags:
     - tag: Networking
     - tag: Communications
     - tag: Zsmart
   timeline-side: left
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Nov 2019 - Apr 2020
-  subtitle: Troubleshooter
-  tags:
-    - tag: Networking
-    - tag: Communications
-    - tag: Zsmart
-  timeline-side: right
-
-- title: Business And Technology University
-  title-url: https://btu.edu.ge/
-  date: 2019 - 2023
-  subtitle: Bachelor of Information Systems and Technologies
+- title: Western Governors University
+  title-url: https://www.wgu.edu/
+  date: Nov 2022
+  subtitle: Bachelor of Science Information Technology
   timeline-side: left
