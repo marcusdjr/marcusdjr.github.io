@@ -45,7 +45,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - daweedkob
+      - marcusdjr
 
 plugins:
   - "jekyll-github-metadata"
