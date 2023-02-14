@@ -18,7 +18,7 @@ skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: https://drive.google.com/file/d/1FIaJurk47rssevQnd8vDaUcCs6hC8oRK/view
+cv_download_link: N/A
 
 show_projects_card: true
 show_projects: false
@@ -56,3 +56,5 @@ exclude:
     "node_modules",
     "package.json",
   ]
+
+https://drive.google.com/file/d/1FIaJurk47rssevQnd8vDaUcCs6hC8oRK/view
